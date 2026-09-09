@@ -1,18 +1,150 @@
 [
     {
+        "name": "Информатика",
+        "icon": "computer",
+        "meet": "https://meet.google.com",
+        "gdz_url": "https://gdz.ru",
+        "book_url": "https://drive.google.com/uc?export=download&id=ТВОЙ_ID",
+        "book_file": "informatika.pdf"
+    },
+    {
         "name": "Алгебра",
         "icon": "calculate",
-        "meet": "https://meet.google.com/abc-defg-hij",
-        "gdz_url": "https://gdz.ru/class-9/algebra/",
-        "book_url": "https://drive.google.com/uc?export=download&id=1WYnRsQE0pVtN3oDET0imemY2whxEjrCE",
+        "meet": "https://meet.google.com",
+        "gdz_url": "https://gdz.ru",
+        "book_url": "https://drive.google.com/uc?export=download&id=ТВОЙ_ID",
         "book_file": "algebra.pdf"
     },
     {
-        "name": "Геометрия",
-        "icon": "change_history",
-        "meet": "https://meet.google.com/xyz-qwe-rty",
-        "gdz_url": "https://gdz.ru/class-9/geometria/",
-        "book_url": "https://drive.google.com/uc?export=download&id=9Z8y7X6w5V4u3T2s1R0q",
-        "book_file": "geometry.pdf"
+        "name": "Финансовая грамотность",
+        "icon": "payments",
+        "meet": "https://meet.google.com",
+        "book_url": "https://drive.google.com/uc?export=download&id=ТВОЙ_ID",
+        "book_file": "fin_gram.pdf"
+    },
+    {
+        "name": "ЗБД",
+        "icon": "security",
+        "meet": "https://meet.google.com",
+        "book_url": "https://drive.google.com/uc?export=download&id=ТВОЙ_ID",
+        "book_file": "zbd.pdf"
+    },
+    {
+        "name": "Физика",
+        "icon": "science",
+        "meet": "https://meet.google.com",
+        "gdz_url": "https://gdz.ru",
+        "book_url": "https://drive.google.com/uc?export=download&id=ТВОЙ_ID",
+        "book_file": "fizika.pdf"
+    },
+    {
+        "name": "Украинская литература",
+        "icon": "menu_book",
+        "meet": "https://meet.google.com",
+        "gdz_url": "https://gdz.ru",
+        "book_url": "https://drive.google.com/uc?export=download&id=ТВОЙ_ID",
+        "book_file": "ukr_lit.pdf"
+    },
+    {
+        "name": "Драматургия и театр",
+        "icon": "theater_comedy",
+        "meet": "https://meet.google.com"
+    },
+    {
+        "name": "Физкультура",
+        "icon": "sports_soccer",
+        "meet": "https://meet.google.com"
+    },
+    {
+        "name": "Биология",
+        "icon": "biotech",
+        "meet": "https://meet.google.com",
+        "gdz_url": "https://gdz.ru",
+        "book_url": "https://drive.google.com/uc?export=download&id=ТВОЙ_ID",
+        "book_file": "biologiya.pdf"
+    },
+    {
+        "name": "Химия",
+        "icon": "vape_free",
+        "meet": "https://meet.google.com",
+        "gdz_url": "https://gdz.ru",
+        "book_url": "https://drive.google.com/uc?export=download&id=ТВОЙ_ID",
+        "book_file": "khimiya.pdf"
+    },
+    {
+        "name": "География",
+        "icon": "public",
+        "meet": "https://meet.google.com",
+        "gdz_url": "https://gdz.ru",
+        "book_url": "https://drive.google.com/uc?export=download&id=ТВОЙ_ID",
+        "book_file": "geografiya.pdf"
+    },
+    {
+        "name": "Правознание",
+        "icon": "gavel",
+        "meet": "https://meet.google.com",
+        "book_url": "https://drive.google.com/uc?export=download&id=ТВОЙ_ID",
+        "book_file": "pravo.pdf"
+    },
+    {
+        "name": "История Украины",
+        "icon": "history_edu",
+        "meet": "https://meet.google.com",
+        "gdz_url": "https://gdz.ru",
+        "book_url": "https://drive.google.com/uc?export=download&id=ТВОЙ_ID",
+        "book_file": "istoriya_ukr.pdf"
+    },
+    {
+        "name": "Зарубежная литература",
+        "icon": "auto_stories",
+        "meet": "https://meet.google.com",
+        "gdz_url": "https://gdz.ru",
+        "book_url": "https://drive.google.com/uc?export=download&id=ТВОЙ_ID",
+        "book_file": "zarub_lit.pdf"
+    },
+    {
+        "name": "Английский язык",
+        "icon": "translate",
+        "meet": "https://meet.google.com",
+        "gdz_url": "https://gdz.ru",
+        "book_url": "https://drive.google.com/uc?export=download&id=ТВОЙ_ID",
+        "book_file": "english.pdf"
+    },
+    {
+        "name": "Харьковознание",
+        "icon": "location_city",
+        "meet": "https://meet.google.com",
+        "book_url": "https://drive.google.com/uc?export=download&id=ТВОЙ_ID",
+        "book_file": "kharkiv.pdf"
+    },
+    {
+        "name": "Технологии",
+        "icon": "build",
+        "meet": "https://meet.google.com"
+    },
+    {
+        "name": "Воспитательный час",
+        "icon": "groups",
+        "meet": "https://meet.google.com"
+    },
+    {
+        "name": "Гражданское образование",
+        "icon": "people",
+        "meet": "https://meet.google.com",
+        "book_url": "https://drive.google.com/uc?export=download&id=ТВОЙ_ID",
+        "book_file": "grom_osv.pdf"
+    },
+    {
+        "name": "Рисование / Музыка",
+        "icon": "palette",
+        "meet": "https://meet.google.com"
+    },
+    {
+        "name": "Всемирная история",
+        "icon": "language",
+        "meet": "https://meet.google.com",
+        "gdz_url": "https://gdz.ru",
+        "book_url": "https://drive.google.com/uc?export=download&id=ТВОЙ_ID",
+        "book_file": "vsemir_ist.pdf"
     }
 ]
