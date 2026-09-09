@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Алгебра",
+    "icon": "calculate",
+    "meet": "https://meet.google.com/yhbmqspwyy",
+    "gdz_url": "https://gdzister.com.ua/alhebra",
+    "book_url": "https://www.dropbox.com/scl/fi/3w27zhv5bm7f2o5zzr0r1/algebra.pdf?rlkey=7xor7y9vo8pnt84g5d5a5a7xz&st=om3kvmgq&dl=1",
+    "book_file": "algebra.pdf"
+  },
+  {
+    "name": "Геометрия",
+    "icon": "change_history",
+    "meet": "https://meet.google.com/yhbmqspwyy",
+    "gdz_url": "https://gdzister.com.ua/heometriia",
+    "book_url": "https://www.dropbox.com/scl/fi/87om30bipuavex1grw48b/geometry.pdf?rlkey=zadwurjgichk2ffpuvv9rdnky&st=w06pza93&dl=1",
+    "book_file": "geometry.pdf"
+  },
+  {
+    "name": "Английский",
+    "icon": "language",
+    "meet": "https://meet.google.com/iii-jjjk-lll",
+    "gdz_url": "https://gdz.ru/class-7/english/",
+    "book_url": "https://example.com/books/english_7kl.pdf",
+    "book_file": "english_7kl.pdf"
+  },
+  {
+    "name": "Физика",
+    "icon": "speed",
+    "meet": "https://meet.google.com/mmm-nnno-ppp",
+    "gdz_url": "https://gdz.ru/class-7/fizika/",
+    "book_url": "",
+    "book_file": ""
+  }
+]
